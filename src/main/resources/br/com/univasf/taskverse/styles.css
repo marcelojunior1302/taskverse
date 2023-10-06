@@ -1,0 +1,16 @@
+.rounded-button {
+    -fx-background-color: #3498db; /* Cor de fundo do botão */
+    -fx-text-fill: #ffffff; /* Cor do texto do botão */
+    -fx-border-radius: 50px; /* Raio da borda para tornar o botão arredondado */
+    -fx-padding: 5px 10px; /* Espaçamento interno (ajuste conforme necessário) */
+    -fx-background-radius: 50px; /* Raio da borda para o fundo do botão */
+    -fx-font-size: 18px; /* Tamanho da fonte (ajuste conforme necessário) */
+}
+
+.titleLabel {
+    -fx-font-size: 40px; /* Tamanho da fonte */
+    -fx-font-weight: bold; /* Negrito */
+    -fx-text-fill: #007ACC; /* Cor do texto em azul */
+    -fx-padding: 20px 0 20px 0; /* Espaçamento interno (topo, direita, inferior, esquerda) */
+    -fx-alignment: CENTER; /* Alinhamento no centro horizontal */
+}
